@@ -1,0 +1,27 @@
+# Virtual environment
+retail_env/
+venv/
+env/
+.env/
+.venv/
+
+# Generated data
+data/
+outputs/
+models/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
